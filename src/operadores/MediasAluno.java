@@ -4,7 +4,7 @@ public class MediasAluno {
     public static void main(String[] args) {
         Scanner recebe = new Scanner(System.in);
 
-        System.out.println("Diga seu nome: ");
+        System.out.print("Diga seu nome: ");
         String nome = recebe.nextLine();
 
         System.out.println("Digite sua primeira nota: ");
